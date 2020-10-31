@@ -75,7 +75,7 @@ python badrobo.py
 - [Whatsapp](https://wa.me/+919562803802)
 ---
 ## Donate!
-#### Support the authors:
+#### Support And Join Our Family
 #### Consider donating ❤️️
 <a href="https://www.paypal.com/paypalme/jaleeljale"><img src="https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/580b57fcd9996e24bc43c530.png" align="left" height="55" ></a>
 ---
