@@ -77,6 +77,6 @@ python badrobo.py
 ## Donate!
 #### Support the authors:
 #### Consider donating ❤️️
-<a href="https://www.paypal.com/paypalme/jaleeljale"><img src="https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/580b57fcd9996e24bc43c530.png" align="left" height="50" ></a>
+<a href="https://www.paypal.com/paypalme/jaleeljale"><img src="https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/580b57fcd9996e24bc43c530.png" align="left" height="90" ></a>
 ---
 
