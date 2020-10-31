@@ -20,8 +20,7 @@
 - Get 400+ Followers Daily
 - Get 2k Likes Daily
 - No Action Blockes
-- Free Bot [Register Now To Join]
-- [Donate And Join Our Family] Contact Us
+- [Donate And Join Our Family] [Contact Us](#contact-us)
 
 ![](https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/20201016_221726.gif)
 
