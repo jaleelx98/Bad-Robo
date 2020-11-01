@@ -21,7 +21,7 @@
 - Get 2k Likes Daily
 - No Action Blockes
 - Never Stops
-- [Donate And Join Our Family] [Contact Us](#contact-us)
+- [Donate And Join Our Family]
 
 ![](https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/20201016_221726.gif)
 
