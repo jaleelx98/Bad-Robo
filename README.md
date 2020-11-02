@@ -22,6 +22,7 @@
 - No Action Blockes
 - Never Stops
 - [Donate And Join Our Family]
+- GIVE US A STAR 🌟
 
 ![](https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/20201016_221726.gif)
 
