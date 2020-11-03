@@ -14,6 +14,8 @@
 - [Donate](#donate)
 ----
 # Description
+- GIVE US A STAR 🌟
+- FREE FROM TODAY
 - Best Instagram Bot For Termux With All Features.
 - Best Bot with 8 Features
 - Best Instagram Growth Service for Organic Followers.
@@ -21,8 +23,6 @@
 - Get 2k Likes Daily
 - No Action Blockes
 - Never Stops
-- [Donate And Join Our Family]
-- GIVE US A STAR 🌟
 
 ![](https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/20201016_221726.gif)
 
@@ -53,7 +53,7 @@ cd Bad-Robo
 ```
 Step 3 (Unzip BadRobo)
 ```
-unzip BadRobo.zip
+unzip Bad-Robo.zip
 ```
 Step 4 (Install BadRobo Requirements > This Take Some time 10-15 mints )
 ```
