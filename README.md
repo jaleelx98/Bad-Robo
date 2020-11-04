@@ -4,7 +4,8 @@
 
 ----
 #### FREE FROM TODAY
-![](https://github.com/jaleelx98/BadRobo/blob/main/Screenshot_2020-10-16-21-54-43-1.png)
+
+![](https://github.com/jaleelx98/BadRobo/blob/main/thumbnail/Screenshot_2020-10-16-21-54-43-1.png)
 
 ## Table of Contents
 
