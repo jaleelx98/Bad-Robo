@@ -34,7 +34,7 @@
 ---
 # Features Of The BadRobo
 
-- FollowBot 1
+- FollowBot 
 - FollowBot 2
 - Masslooker
 - Re-Hashtag
