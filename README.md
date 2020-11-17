@@ -86,7 +86,7 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 - [Instagram](https://instagram.com/jaleel_x98) 
 - [Whatsapp](https://wa.me/+919562803802)
 ---
-#### Support And Join Our Family !
+#### Support And Join Our Family...!
 #### Consider donating ❤️️
 <a href="https://wa.me/+919562803802"><img src="https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/580b57fcd9996e24bc43c530.png" align="left" height="55" ></a>
 ---
