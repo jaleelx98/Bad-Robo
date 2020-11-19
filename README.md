@@ -4,7 +4,7 @@
 
 ----
 ## NEW UPDATE COMING SOON WITH NEW TOOLS 
-### FREE FROM TODAY
+## Next Free Version Soon...!
 
 ![](https://github.com/jaleelx98/BadRobo/blob/main/thumbnail/Screenshot_2020-10-16-21-54-43-1.png)
 
@@ -21,7 +21,6 @@
 ----
 # Description
 - GIVE US A STAR 🌟
-- FREE FROM TODAY
 - Best Instagram Bot For Termux With All Features.
 - Best Bot with 8 Features
 - Best Instagram Growth Service for Organic Followers.
