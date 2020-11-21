@@ -5,6 +5,7 @@
 ----
 ## NEW UPDATE COMING SOON WITH NEW TOOLS 
 ## Next Free Version Soon...!
+### GIVE US A STAR AND SUPPORT US ❤️️
 
 ![](https://github.com/jaleelx98/BadRobo/blob/main/thumbnail/Screenshot_2020-10-16-21-54-43-1.png)
 
