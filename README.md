@@ -14,7 +14,7 @@
 - [Description](#description)
 - [Features Of The BadRobo](#features-of-the-badrobo)
 - [Installation](#installation)
-- [How to Update ?](#Re-Installation (UPDATING))
+- [How to Update ?](#Re-Installation(UPDATING))
 - [Tutorial Video](#video-tutorial)
 - [License](#license)
 - [Contact Us](#contact-us)
@@ -76,7 +76,7 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 ```
 ---
 
-# Re-Installation (UPDATING)
+# Re-Installation(UPDATING)
 
 Step 1 (Remove installed Bad-Robo)
 ```
