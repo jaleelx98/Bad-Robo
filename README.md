@@ -18,7 +18,7 @@
 - [Tutorial Video](#video-tutorial)
 - [License](#license)
 - [Contact Us](#contact-us)
-- [Donate](#Consider-donating)
+- [Donate](#Consider-donating-❤️️)
 ----
 # Description
 - GIVE US A STAR 🌟
