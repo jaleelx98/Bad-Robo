@@ -18,7 +18,7 @@
 - [Tutorial Video](#video-tutorial)
 - [License](#license)
 - [Contact Us](#contact-us)
-- [Donate](#Consider-donating-❤️️)
+- [Donate](#Donate)
 ----
 # Description
 - GIVE US A STAR 🌟
@@ -100,8 +100,10 @@ Install Again
 - [Instagram](https://instagram.com/jaleel_x98) 
 - [Whatsapp](https://wa.me/+919562803802)
 ---
-## Support And Join Our Family....!
-## Consider donating ❤️️
+
+#Donate
+#### Support And Join Our Family....!
+#### Consider donating ❤️️
 <a href="https://wa.me/+919562803802"><img src="https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/580b57fcd9996e24bc43c530.png" align="left" height="55" ></a>
 ---
 
