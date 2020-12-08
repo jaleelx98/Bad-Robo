@@ -102,7 +102,7 @@ Install Again
 ---
 
 # Donate
-#### Support And Join Our Family..!
+#### Support And Join Our Family...!
 #### Consider donating ❤️️
 <a href="https://wa.me/+917034563925"><img src="https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/580b57fcd9996e24bc43c530.png" align="left" height="55" ></a>
 ---
