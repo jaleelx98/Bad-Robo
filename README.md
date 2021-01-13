@@ -3,7 +3,7 @@
 
 
 ----
-## UPDATED 
+## UPDATED v1.2 
 ### GIVE US A STAR AND SUPPORT US ❤️️
 ### FREE BOT
 
