@@ -45,7 +45,7 @@
 - Unfollow Non-Followers
 - Profile-Scraper
 
-![](https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/Screenshot_2020-10-25-19-21-12-1.png)
+![](https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/Screenshot_2021-08-24-12-45-04-62_84d3000e3f4017145260f7618db1d683.jpg)
 
 ---
 # Installation
