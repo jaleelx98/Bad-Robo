@@ -3,7 +3,7 @@
 
 
 ----
-## UPDATED v1.2 
+## UPDATED v2.0
 ### GIVE US A STAR AND SUPPORT US ❤️️
 ### FREE BOT
 
@@ -40,10 +40,12 @@
 - FollowBot 2
 - Masslooker
 - Re-Hashtag
-- FeedLiker
-- DM-Messager
+- C-Mention
+- Boom Group DM
 - Unfollow Non-Followers
-- Profile-Scraper
+- Hashtag Liker
+- Hashtag Liker 2
+- Like&comment Hashtag
 
 ![](https://github.com/jaleelx98/Bad-Robo/blob/main/thumbnail/Screenshot_g1.png)
 
