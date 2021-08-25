@@ -52,6 +52,11 @@
 ---
 # Installation
 
+---
+## How to Install Video Tutorial 
+### https://youtu.be/yMA--iZFXaE
+---
+
 Step 1 (Clone or Download)
 ```
 git clone https://github.com/jaleelx98/Bad-Robo.git
@@ -81,6 +86,11 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 
 # UPDATING
 
+---
+## How to Update Video Tutorial 
+### https://youtu.be/r1DjErlzUDk
+---
+
 Step 1 (Remove installed Bad-Robo)
 ```
 rm -rf Bad-Robo
@@ -90,10 +100,7 @@ Step 2 ([Installation](#Installation)) NOT TAKE TOO MUCH TIME
 Install Again
 ```
 
----
-## Video Tutorial 
-### https://youtu.be/EoLr5Brx1Rk
----
+
 ## License
 ##### Copyright (c) [2020] [jaleel_x98]
 ##### Licensed under the Apache License, Version 2.0
