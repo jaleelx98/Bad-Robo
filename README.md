@@ -16,7 +16,6 @@
 - [Features Of The BadRobo](#features-of-the-badrobo)
 - [Installation](#installation)
 - [How to Update ?](#UPDATING)
-- [Tutorial Video](#video-tutorial)
 - [License](#license)
 - [Contact Us](#contact-us)
 - [Donate](#Donate)
@@ -24,7 +23,7 @@
 # Description
 - GIVE US A STAR 🌟
 - Best Instagram Bot For Termux With All Features.
-- Best Bot with 8 Features
+- Best Bot with 10 Features
 - Best Instagram Growth Service for Organic Followers.
 - Get 400+ Followers Daily
 - Get 2k Likes Daily
